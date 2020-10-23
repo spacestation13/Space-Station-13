@@ -91,10 +91,7 @@ No description yet, [contribute](CONTRIBUTING.md) by adding a description!
 ### Links:
 - [Repository](https://github.com/tgstation/tgstation)
 - [Website](https://tgstation13.org/)
-- [BYOND - Basil](byond://bagil.tgstation13.org:2337)
-- [BYOND - Sybil](byond://sybil.tgstation13.org:1337)
-- [BYOND - Terry](byond://terry.tgstation13.org:3336)
-- [BYOND - Manuel](byond://sybil.tgstation13.org:1447)
+- [BYOND](https://tgstation13.org/)
 - [Wiki](https://tgstation13.org/wiki/Main_Page)
 - [Forums](https://tgstation13.org/phpBB/index.php)
 
