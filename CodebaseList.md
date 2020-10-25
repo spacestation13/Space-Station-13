@@ -32,7 +32,7 @@ If your server meets the requirements and it is not listed, feel free to [contri
 ## [Baystation 13](https://github.com/Baystation12/Baystation12)
 <!-- omit in toc -->
 ### Description
-No description yet, [contribute](CONTRIBUTING.md) by adding a description!
+A long running community, Baystation 12 origins from the Bay 12 *Dwarf Fortress* Community. Newbies might have a difficult time jumping in here, due to the enforced roleplaying – But you’ll generally have a slower paced and less chaotic experience. Baystation12 is an RP-enforced SS13 community with higher than normal requirements, designed to aid enjoyment and fun for all of its players – And to provide an experience unique from most other servers.
 <!-- omit in toc -->
 ### Links:
 - [Repository](https://github.com/Baystation12/Baystation12)
@@ -50,7 +50,7 @@ No description yet, [contribute](CONTRIBUTING.md) by adding a description!
 ## [BeeStation](https://github.com/BeeStation/BeeStation-Hornet)
 <!-- omit in toc -->
 ### Description
-No description yet, [contribute](CONTRIBUTING.md) by adding a description!
+BeeStation is a server that greatly focuses on being newbie-friendly. An ongoing goal of theirs is to be the most balanced SS13 server, by constantly tweaking gameplay features to be more fun, and fair. Rounds on BeeStation tend to be very chaotic and fast-paced. The code for the server was forked off of the /tg/station codebase.
 <!-- omit in toc -->
 ### Links:
 - [Repository](https://github.com/BeeStation/BeeStation-Hornet)
@@ -68,15 +68,17 @@ No description yet, [contribute](CONTRIBUTING.md) by adding a description!
 ## [Goonstation](https://github.com/goonstation/goonstation/)
 <!-- omit in toc -->
 ### Description
-No description yet, [contribute](CONTRIBUTING.md) by adding a description!
+Established way back in 2008, ‘Goonstation’ is the longest running Space Station 13 Community. Built on top of the original source code, all forks are derived from this codebase. The gameplay style can be considered casual. People will generally play the game in character, but it’s not taken entirely seriously.
 <!-- omit in toc -->
 ### Links:
-- [Repository](https://github.com/goonstation/goonstation/)
-- [Website](https://goonhub.com/)
-- [BYOND - Goonstation](byond://goon2.goonhub.com:26200/)
-- [BYOND - Roleplay](byond://goon1.goonhub.com:26100/)
+- [Repository](https://github.com/goonstation/goonstation)
+- [Website](https://goonhub.com)
+- [BYOND - Main](https://play.goonhub.com/?s=main)
+- [BYOND - Roleplay](https://play.goonhub.com/?s=rp)
+- [BYOND - Main Overflow](https://play.goonhub.com/?s=main2)
+- [BYOND - Roleplay Overflow](https://play.goonhub.com/?s=rp2)
 - [Wiki](https://wiki.ss13.co/Main_Page)
-- [Forums](https://forum.ss13.co/)
+- [Forums](https://forum.ss13.co)
 
 
 ---
@@ -86,7 +88,7 @@ No description yet, [contribute](CONTRIBUTING.md) by adding a description!
 ## [/TG/ Station](https://github.com/tgstation/tgstation)
 <!-- omit in toc -->
 ### Description
-No description yet, [contribute](CONTRIBUTING.md) by adding a description!
+/tg/station 13 spawned from the *tg/ (Traditional Games)* section of 4chan, an imageboard primarily dedicated to the discussion of board games and tabletop RPGs. Using Goonstation’s publically released codebase as a jumping off point, /tg/station quickly branched off – implementing plenty of features and quality of life improvements to the game, causing it to soar in popularity. Sybil and Basil operate coderbus’s standard /tg/station13 code. This is the ancestor of almost all SS13 codebases.
 <!-- omit in toc -->
 ### Links:
 - [Repository](https://github.com/tgstation/tgstation)
@@ -122,7 +124,7 @@ No description yet, [contribute](CONTRIBUTING.md) by adding a description!
 ## [Yogstation](https://github.com/yogstation13/yogstation)
 <!-- omit in toc -->
 ### Description
-No description yet, [contribute](CONTRIBUTING.md) by adding a description!
+Since 2011, Yogstation has come a long way. The server is run by a council of elected staff and the codebase is open with regular contributions from the community as well as downstreaming much of TG’s code. Yogstation is one of SS13’s most long-standing communities far surpassing most others in time.
 <!-- omit in toc -->
 ### Links:
 - [Repository](https://github.com/yogstation13/Yogstation-TG)
